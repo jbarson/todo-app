@@ -1,10 +1,10 @@
 # React Review
 
--   [lecture recording(redux)](https://vimeo.com/649394399/19055ad99a)
+-   [Video](https://youtu.be/4DtB4oB1sfI)
 -   [notes](https://github.com/jbarson/Todo-app)
->
+
 ## Agenda
->
+
 -   \[x\] Run through server
 -   \[x\] Planning your app (todo list)
 -   \[x\] Building a component
